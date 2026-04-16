@@ -7,3 +7,4 @@
 | **Maximilian Bala** | UI/UX Designer | CY école de design | [Maximilian Bala](https://www.linkedin.com/in/maximilian-bala-590a17260/) | [Maximilian Bala](https://github.com/NhexaD) |
 
 ---
+
